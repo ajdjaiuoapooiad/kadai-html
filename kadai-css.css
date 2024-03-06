@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+header{
+  background-color:#ffcccc;
+  height:100px;
+  width:1000px;
+}
+/*body要素内*/
+body{
+  padding:0;
+  margin:0;
+}
+.wrapper{
+  width:1000px;
+  margin:0 auto;
+}
+.main{
+  background-color:#ccffcc;
+  width:700px;
+}
+.menu{
+  background-color:#ccccff;
+  width:300px;
+}
+/*ここまで*/
+footer{
+  background-color:#ffccff;
+  height:100px;
+  width:1000px;
+}
